@@ -14,6 +14,9 @@ This is an example changelog entry. This is how the changelog will look like. Th
 
 ## Changelog
 
+### 08-09-2023 || 0.0.2 || Added .bin removal location script || @REALSDEALS
+Added a script that removes .bin files from a specified location predefined in the script.
+
 ### 04-09-2023 || 0.0.1 || Creation of Repository || @REALSDEALS
 Added documentation and created the repository.
 
